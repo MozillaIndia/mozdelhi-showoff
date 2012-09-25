@@ -14,6 +14,11 @@ Refer to this EtherPad doc for more details: https://etherpad.mozilla.org/Hozmas
 This project is under development. Documentation will improve with time. If you are willing to get involved, fork this repository and send patches as pull requests.
 
 
+Demo
+----
+There is a demo of this application at http://moz.vaidikkapoor.info.
+
+
 Installation
 ------------
 Do all this in a VirtualEnv if you like.
