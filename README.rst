@@ -22,11 +22,11 @@ Do all this in a VirtualEnv if you like.
 2. Edit `website/settings.py` according to your wish.
 3. Create a new MySQL database with the name as entered in `settings.py`.
 4. Fire the Python interpreter and do the following:
-   `
+   ```python
    >>> import website
    >>> from models import db
    >>> db.create_all()
-   `
+   ```
 
    This will create all the required tables in the database.
 
